@@ -1,4 +1,4 @@
-# Hi, I'm Vaibhav Sharma! 🚀
+# Hi, I'm Vaibhav Sharma! 
 
 I am an **Aspiring MERN Stack Developer** and a **Backend Enthusiast**. I love learning new technologies and building projects from scratch.
 
@@ -19,14 +19,22 @@ I am an **Aspiring MERN Stack Developer** and a **Backend Enthusiast**. I love l
 
 ### 📫 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/vaibhavsharma-mern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavsharma-mern" height="30" width="40" /></a>
-<a href="mailto:vaibhavkrish299@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="vaibhavsharma" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vaibhavsharma-mern" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavsharma-mern" height="35" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:vaibhavkrish299@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="vaibhavkrish299" height="35" width="45" />
+  </a>
 </p>
 
-<h3 align="left">📊 My GitHub Stats</h3>
+---
 
+### 📊 My GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-sharma29&show_icons=true&theme=radical" alt="Vaibhav's GitHub stats" height="150" />
-  </br>
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-sharma29&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
+
+

@@ -19,3 +19,8 @@ I am an **Aspiring MERN Stack Developer** and a **Backend Enthusiast**. I love l
 
 ### 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/vaibhavsharma-mern)
+
+### 📊 My GitHub Stats
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-sharma29&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-sharma29&layout=compact&theme=radical)

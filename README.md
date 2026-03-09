@@ -18,7 +18,10 @@ I am an **Aspiring MERN Stack Developer** and a **Backend Enthusiast**. I love l
 ---
 
 ### 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/vaibhavsharma-mern)
+<p align="left">
+<a href="https://www.linkedin.com/in/vaibhavsharma-mern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavsharma-mern" height="30" width="40" /></a>
+<a href="mailto:vaibhavkrish299@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="vaibhavsharma" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">📊 My GitHub Stats</h3>
 

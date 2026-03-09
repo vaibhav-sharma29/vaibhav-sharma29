@@ -19,12 +19,12 @@ I am an **Aspiring MERN Stack Developer** and a **Backend Enthusiast**. I love l
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/vaibhavsharma-mern" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavsharma-mern" height="35" width="45" />
+  <a href="https://www.linkedin.com/in/vaibhavsharma-mern" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:vaibhavkrish299@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="vaibhavkrish299" height="35" width="45" />
+  &nbsp;&nbsp;
+  <a href="mailto:vaibhavkrish299@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -32,9 +32,11 @@ I am an **Aspiring MERN Stack Developer** and a **Backend Enthusiast**. I love l
 
 ### 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-sharma29&show_icons=true&theme=radical" alt="Vaibhav's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-sharma29&show_icons=true&theme=radical" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-sharma29&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-sharma29&layout=compact&theme=radical" height="150" />
 </p>
+
+
 
 

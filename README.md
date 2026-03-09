@@ -1,5 +1,5 @@
 # Hi, I'm Vaibhav Sharma! 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&width=435&lines=Aspiring+MERN+Stack+Developer;Hackathon+Enthusiast;Building+Scalable+Backends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&width=500&lines=Building+Scalable+Web+Apps;Thriving+in+Hackathons;MERN+Stack+Developer)](https://git.io/typing-svg)
 
 I am an **Aspiring MERN Stack Developer** and a **Backend Enthusiast**. I love learning new technologies and building projects from scratch.
 

@@ -24,5 +24,6 @@ I am an **Aspiring MERN Stack Developer** and a **Backend Enthusiast**. I love l
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-sharma29&show_icons=true&theme=radical" alt="Vaibhav's GitHub stats" height="150" />
+  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-sharma29&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>

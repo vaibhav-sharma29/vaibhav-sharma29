@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Vaibhav Sharma! 🚀
 
-<!--
-**vaibhav-sharma29/vaibhav-sharma29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Aspiring MERN Stack Developer** and a **Backend Enthusiast**. I love learning new technologies and building projects from scratch.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm doing right now:
+- 📚 **Learning:** Deep diving into the **MERN Stack** (MongoDB, Express, React, Node.js).
+- 🏆 **Hackathons:** Actively exploring and participating in hackathons like **HackXtreme** to solve real-world problems.
+- 🛠️ **Building:** Working on backend projects to understand scalable architecture.
+
+### 🛠️ Tech Stack (Learning & Building)
+- **Frontend:** React.js, Tailwind CSS ,Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB,MySQL
+- **Tools:** Git, GitHub
+
+---
+
+### 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/vaibhavsharma-mern)
